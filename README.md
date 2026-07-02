@@ -3,6 +3,10 @@
   Multi-project workflows, per-reviewer independent screening, PDF management, IRR support.
 </p>
 
+<p align="center">
+  <a href="LICENSE"><img alt="License: AGPL v3" src="https://img.shields.io/badge/License-AGPLv3-blue.svg"></a>
+</p>
+
 ---
 
 RevMaster helps research teams screen and assess papers for a literature review. Import a
@@ -69,3 +73,9 @@ Put it behind a reverse proxy (Caddy/nginx) that terminates TLS for production u
 - All app state (users, projects, papers, assessments, uploaded PDFs) lives under `data/` —
   back up by copying the folder.
 - No cloud dependencies — everything runs locally except optional Unpaywall PDF lookups.
+
+## License
+
+Copyright (C) 2026 Giovanni Spitale. Licensed under AGPL-3.0 — fork it, host it, sell access
+to it, but keep it closed-source and you're in violation. No SaaS forks that don't share
+back. See [LICENSE](LICENSE).
