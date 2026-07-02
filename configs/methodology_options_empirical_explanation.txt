@@ -1,0 +1,16 @@
+### Category 1: Observational vs Experimental 
+- Observational study: These studies involve observing and collecting data on individuals or groups without intervening in any way. 
+- Experimental study: These studies involve manipulating one or more variables to determine their effect on an outcome. Examples include randomized controlled trials and quasi-experimental studies. 
+
+### Category 2: Descriptive vs Analytical 
+- Descriptive study: These studies describe the characteristics of a particular group or population, without attempting to establish cause-and-effect relationships. 
+- Analytical study: These studies attempt to establish cause-and-effect relationships between variables. Examples include case-control studies and cohort studies. 
+
+### Category 3: Qualitative vs quantitative 
+- Qualitative study: These studies use non-numerical data such as interviews, focus groups, and observations to explore subjective experiences, attitudes, and beliefs. 
+- Quantitative study: These studies use numerical data and statistical analysis to test hypotheses and make predictions. 
+- Mixed methods study: These studies use both qualitative and quantitative approaches 
+
+### Category 4: Longitudinal vs Cross-sectional 
+- Longitudinal study: These studies follow individuals or groups over an extended period to study changes in behavior or health outcomes over time. 
+- Cross-sectional study: These studies collect data at a single point in time to study the prevalence or distribution of a particular condition or behavior in a population. 

@@ -1,0 +1,16 @@
+### Traditional (narrative) literature review
+Identifies and reviews published literature on a topic, which may be broad. Typically employs a narrative approach to reporting the review findings. Can include a wide range of related subjects.
+
+### Rapid review
+Assesses what is known about an issue by using a systematic review method to search and appraise research and determine best practice.
+
+### Scoping review
+Assesses the potential scope of the research literature on a particular topic. Helps determine gaps in the research.
+
+### Systematic review
+Seeks to systematically search for, appraise, and synthesise research evidence so as to aid decision-making and determine best practice. Can vary in approach, and is often specific to the type of study, which include studies of effectiveness, qualitative research, economic evaluation, prevalence, aetiology, or diagnostic test accuracy.
+
+### Meta analysis
+Technique that statistically combines the results of quantitative studies to provide a more precise effect of the results.
+
+(based on [ typology of reviews: an analysis of 14 review types and associated methodologies](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1471-1842.2009.00848.x))
