@@ -25,7 +25,7 @@ database, uploaded PDFs, and per-project config.
 Example **Caddy**:
 
 ```
-revmaster.example.org {
+yourdomain.example {
     reverse_proxy 127.0.0.1:8501
 }
 ```
@@ -34,7 +34,7 @@ Reload after editing: `systemctl reload caddy`.
 
 ## 4. Verify
 
-- `https://revmaster.example.org/` — setup screen on first visit, login afterwards.
+- `https://yourdomain.example/` — setup screen on first visit, login afterwards.
 
 ## 5. Updating
 
