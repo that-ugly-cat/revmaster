@@ -1,5 +1,12 @@
-streamlit>=1.35.0
-pandas
-openpyxl
-bcrypt
-requests
+# Exact pins since 19 Sep 2026. They were bare names until the VPS move, which
+# made the difference visible: rebuilding on a new machine is not copying an
+# image, it is re-resolving every unconstrained name against the index of that
+# day. A bare `pandas` in 2026 is whatever pandas ships that morning.
+#
+# The versions below are the ones proven working on the Infomaniak build of
+# 19 Sep 2026. Raise them deliberately, not by accident.
+streamlit==1.64.0
+pandas==3.0.6
+openpyxl==3.1.5
+bcrypt==5.0.0
+requests==2.34.2
